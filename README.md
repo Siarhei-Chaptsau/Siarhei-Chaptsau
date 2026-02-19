@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi there! 👋 I'm a senior frontend developer who loves Ski⛷️/Travel✈️/Tech👨‍💻
+I'm a Senior Frontend Developer at a FinTech company with over 7 years of commercial experience.
+- ID Finance (2018 – March 2023). FinTech company. Minsk, Belarus.
+- Plazo Technologies (March 2023 – Present). FinTech company. Wroclaw, Poland.
+  
+- English: B2.
+- Polish: B1 (State certificate).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siarhei-chaptsau/) [![Stack Overflow](https://img.shields.io/badge/google-chrome&logoColor=white)](https://siarhei-chaptsau.github.io/) [![Telegram](https://img.shields.io/badge/telegram-black.svg)](https://t.me/SA_Nord)
