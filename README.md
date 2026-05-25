@@ -6,6 +6,8 @@ I'm a Senior Frontend Developer at a FinTech company with over 7 years of commer
 - English: B2.
 - Polish: B1 (State certificate).
 
+**Open to work**
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siarhei-chaptsau/) [![Stack Overflow](https://img.shields.io/badge/google-chrome&logoColor=white)](https://siarhei-chaptsau.github.io/) [![Telegram](https://img.shields.io/badge/telegram-black.svg)](https://t.me/SA_Nord)
 
